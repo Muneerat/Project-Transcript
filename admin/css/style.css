@@ -1,0 +1,13 @@
+body{
+	background-color: white;
+}
+nav{
+	background-color: green;
+}
+div.navbar-header{
+	background-color: green;
+}
+.side-nav {
+	background-color: green;
+	    z-index: -1;
+}
